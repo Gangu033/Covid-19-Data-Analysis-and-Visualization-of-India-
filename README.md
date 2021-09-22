@@ -1,1 +1,1 @@
-# Covid-19-Data-Analysis-and-Visualization-of-India-
+# Data Analysis and Visualization
